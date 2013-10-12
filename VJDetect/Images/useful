@@ -1,0 +1,10 @@
+#!/bin/bash
+
+num="1 0 0 35 35"
+
+ls PositiveImages/ > files.txt
+
+cat files.txt | while read a; do
+echo "negatives/$a $num" >> PositiveImages.idx
+done
+rm files.txt

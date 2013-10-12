@@ -1,0 +1,2 @@
+g++ cameraDSRimg.cpp -I /usr/include/opencv -lcxcore -lhighgui -I /usr/local/include -L /usr/local/lib -lfftw3 -lm -fpermissive -g
+

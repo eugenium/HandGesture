@@ -1,0 +1,3 @@
+%obtains the FD using a N point FFT 
+function [x,y]=obtainFD()
+end

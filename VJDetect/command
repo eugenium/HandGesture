@@ -1,0 +1,1 @@
+opencv-haartraining -data trained -vec POS.vec -w 45 -h 45 -bg neg.idx -nstages 9 -nsplits 1 -nonsym -minhitrate 0.998 -maxfalsealarm 0.5 -npos 2000 -nneg 3000 -mem 200

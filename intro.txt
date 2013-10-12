@@ -1,0 +1,9 @@
+https://help.ubuntu.com/8.04/serverguide/C/subversion.html
+https://help.ubuntu.com/community/Subversion
+http://www.cyberciti.biz/faq/howto-linux-add-user-to-group/
+http://www.cyberciti.biz/faq/howto-linux-add-user-to-group/
+http://sudocode.blogspot.com/2008/10/migrating-subversion-repository.html
+
+http://tortoisesvn.net/ssh_howto
+http://allyourtech.com/content/articles/24_12_2005_ditching_the_password_prompts_in_tortoisesvn.php
+http://alephzarro.com/blog/2007/01/07/installation-of-subversion-on-ubuntu-with-apache-ssl-and-basicauth/

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for f in negatives/*
+do
+identify -verbose $f |awk '/Geometry/{print($2)}'|awk -Fx '{print("negatives/" " 0 0 0 " $1 " " $2 " ")}'>> resolution4.txt 
+done
